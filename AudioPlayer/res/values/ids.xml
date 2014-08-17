@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="key_type">key_type</string>
+    <string name="key_file">key_file</string>
+    <string name="key_holder">key_holder</string>
+    <string name="key_album">key_album</string>
+    <string name="key_artist">key_artist</string>
+</resources>

@@ -1,0 +1,30 @@
+highlights background when button pressed
+android:background="?android:selectableItemBackground"
+
+
+
+
+In the /res folder you can have:
+
+anim/ - XML files that define tween animations
+
+color/ - XML files that define a state list of colors.
+
+drawable/ - Bitmap files / Nine-Patches (re-sizable bitmaps) / State lists / Shapes / Animation drawables / Other drawables
+
+layout/ - XML files that define a user interface layout.
+
+menu/ - XML files that define application menus, such as an Options Menu, Context Menu, or Sub Menu.
+
+raw/ - Arbitrary files to save in their raw form.
+
+values/ - XML files that contain simple values, such as strings, integers, and colors.
+
+arrays.xml for resource arrays (typed arrays).
+colors.xml for color values
+dimens.xml for dimension values.
+strings.xml for string values.
+styles.xml for styles.
+xml/ - Arbitrary XML files
+
+Also see Accessing Alternative Resources for more specific device configurations (locale, dpi, size, aspect, orientation, etc)
